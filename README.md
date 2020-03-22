@@ -1,4 +1,4 @@
-# My zsh config
+# My zsh config DS
 
 This is simple script with my experimental zsh config.
 
