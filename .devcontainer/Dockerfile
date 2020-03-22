@@ -28,4 +28,4 @@ RUN \
     rm -rf /var/lib/cache/* && \
     rm -rf /var/lib/log/*
 
-ENTRYPOINT ["/bin/zsh"]
+ENTRYPOINT ["/bin/zsh"] 
